@@ -1,0 +1,122 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.wrapper {
+  width: 100%;
+  height: 95%;
+}
+.top-header {
+  height: 80px;
+  width: 100%;
+  background-color: #303030;
+  position: absolute;
+  margin: 0px;
+}
+/** {
+  outline: 1px solid red;
+}*/
+.apple {
+  color: white;
+  font-size: 35px;
+  position: absolute;
+   top: -15px;
+   left: 75px;
+}
+
+.google {
+  color: white;
+  font-size: 35px;
+  position: absolute;
+   top: -15px;
+   left: 200px;
+}
+
+.gray-box {
+  height: 350px;
+  width: 45%;
+  background-color: gray;
+  position: absolute;
+   top: 175px;
+   right: 45px;
+}
+
+.type-something {
+  color: black;
+  font-size: 75px;
+  position: absolute;
+   top: 110px;
+   left: 75px;
+}
+
+.p1 {
+  color: black;
+  font-size: 20px;
+  position: absolute;
+   top: 250px;
+   left: 75px;
+   right: 628px;
+}
+
+.p2 {
+  color: black;
+  font-size: 20px;
+  position: absolute;
+   top: 425px;
+   left: 75px;
+   right: 628px;
+}
+
+.p3 {
+  color: black;
+  font-size: 20px;
+  position: absolute;
+   top: 600px;
+   left: 75px;
+   right: 628px;
+}
+
+.p4 {
+  color: black;
+  font-size: 20px;
+  position: absolute;
+   top: 775px;
+   left: 75px;
+   right: 628px;
+}
+
+.p5 {
+  color: black;
+  font-size: 20px;
+  position: absolute;
+   top: 950px;
+   left: 75px;
+   right: 628px;
+}
+
+.p6 {
+  color: black;
+  font-size: 20px;
+  position: absolute;
+   top: 550px;
+   left: 650px;
+   right: 30px;
+}
+
+.p7 {
+  color: black;
+  font-size: 20px;
+  position: absolute;
+   top: 725px;
+   left: 650px;
+   right: 30px;
+}
+
+.bottom {
+  height: 80px;
+  width: 100%;
+  background-color: #303030;
+}

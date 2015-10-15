@@ -1,0 +1,76 @@
+html body {
+  width: 98%;
+  margin: 0 auto;
+}
+header {
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 100px;
+  width: 100%;
+  position: relative;
+
+}
+
+.left-box {
+  height: 200px;
+  width: 30%;
+  background-color: red;
+  position: relative;
+   top: 20px;
+   left: 20px;
+}
+
+.middle-box {
+  height: 200px;
+  width: 30%;
+  background-color: blue;
+  position: relative;
+   top: 20px;
+}
+
+.right-box {
+  height: 200px;
+  width: 30%;
+  background-color: gray;
+  position: relative;
+   top: 20px;
+   right: 20px;
+}
+
+.content {
+  font-size: 30px;
+  margin: 40px 30px;
+}
+.blue-box {
+  height: 400px;
+  width: 98%;
+  background-color: blue;
+  margin: 0 auto;
+}
+.red-box {
+  height: 400px;
+  width: 33.33%;
+  background-color: red;
+}
+.blue-foot {
+  height: 200px;
+  width: 98%;
+  background-color: blue;
+  margin: 40px auto;
+  position: relative;
+}
+.red-foot {
+  height: 200px;
+  width: 30%;
+  background-color: red;
+  position: absolute;
+   right: 0;
+}
+.gray-foot {
+  height: 200px;
+  width: 75%;
+  background-color: gray;
+   margin: 0 auto;
+}
+
